@@ -1,0 +1,25 @@
+[
+	{
+		"name":"Sameer",
+		"friends":["Aayushi","Kamalnath Sharma"]
+	},
+	{
+		"name":"Aayushi",
+		"friends":["Bhaskar"]
+	}
+	,
+	{
+		"name":"Bhaskar",
+		"friends":[]
+	}
+	,
+	{
+		"name":"Kamalnath Sharma",
+		"friends":["Shanti Kumar Saha"]
+	}
+	,
+	{
+		"name":"Shanti Kumar Saha",
+		"friends":["Bhaskar"]
+	}
+]
